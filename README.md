@@ -16,9 +16,9 @@ FormSolution.html: Forms proper solution.
 
 
 2) CSS
-blogs.html : CSS using google fonts. 
-photogrid.html : Simple photgrid website with different photos.
-tictacboard.html : tictacboard using CSS.
+blogs.html : CSS using google fonts.   
+photogrid.html : Simple photgrid website with different photos.  
+tictacboard.html : tictacboard using CSS.  
 
 
 
